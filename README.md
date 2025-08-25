@@ -87,7 +87,7 @@ neues Projekt erstellen und Cloudflare CLI Tool verwenden
 
 ### Local Testen
 
- npx wrangler dev --assets=public 
+ npx wrangler dev
 
 ### Deployen
 
